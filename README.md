@@ -20,24 +20,37 @@
   * Uma página web básica.
   * Exercício:
       * Fazer fork do [Meu Primeiro Site](https://rodolfoghi.github.io/meu-primeiro-site/), clonar para o desktop, alterar, subir para o GitHub e habilitar gh-pages.
+  * Adicionando elementos (GoogleMaps, Youtube) com ```<iframe>```.
 
 * **Terça**
-  * Adicionando elementos (GoogleMaps, Youtube) com ```<iframe>```.
-  * Aplicando estilo através de atributos.
-  * Criando links para outras páginas.
-  * Entidades HTML (&euro; &yen; &pound; &reg;).
+  * Revisão da segunda-feira:
+    * Comandos do terminal: ```pwd```, ```cd```, ```mkdir```, ```touch```.
+    * Comandos do git:
+      ```
+      git init
+      git status
+      git commit -m "Minha mensagem de commit"
+      git push
+      git clone link copiado do github
+      ```
+  * [Pontos chave](https://trinket.io/rghiggi/courses/desenvolvimento-web-para-nao-programadores#/html/uma-pagina-web-basica).
+    * Alterar o meu primeiro site colocando as tags ```<!DOCTYPE html>```, ```html```, ```head```, ```<meta charset="utf-8">``` e ```body```.
+  * [Aplicando estilo através de atributos.](https://trinket.io/rghiggi/courses/desenvolvimento-web-para-nao-programadores#/html/estilo-com-atributos)
+  * [Criando links para outras páginas.](https://trinket.io/rghiggi/courses/desenvolvimento-web-para-nao-programadores#/html/criando-links-para-outras-paginas)
+  * [Entidades HTML (&euro; &yen; &pound; &reg;).](https://trinket.io/rghiggi/courses/desenvolvimento-web-para-nao-programadores#/html/entidades-html)
   * Exercício:
-    * Desenvoler o **"mudança_econômica == formação_de_talentos_tech"**, subir para o GitHub e habilitar gh-pages.
+    * [Desenvoler o **"mudança_econômica == formação_de_talentos_tech"**, subir para o GitHub e habilitar gh-pages.](https://trinket.io/rghiggi/courses/desenvolvimento-web-para-nao-programadores#/html/exercicio)
   * Introdução ao CSS
     * Tag ```<style>```
     * Seletores
+      * [CSS Selector Reference](https://www.w3schools.com/cssref/css_selectors.asp)
       * Exercício [CSS Diner](https://flukeout.github.io/).
-    * Cores
-    * Ajustes de textos
+    * [Cores](https://trinket.io/rghiggi/courses/desenvolvimento-web-para-nao-programadores#/css/cores)
+    * [Ajustes de textos](https://trinket.io/rghiggi/courses/desenvolvimento-web-para-nao-programadores#/css/ajustando-o-texto)
   * [Exercício cores e ajustes de texto](https://trinket.io/rghiggi/courses/desenvolvimento-web-para-nao-programadores#/css/exercicio-0-1)
-  * Espaçamento (margin, padding, etc...)
-  * Posicionamento (inline, inline-block, etc...)
-  * Bordas
+  * [Espaçamento (margin, padding, etc...)](https://trinket.io/rghiggi/courses/desenvolvimento-web-para-nao-programadores#/css/espacamentos)
+  * [Posicionamento (inline, inline-block, etc...)](https://trinket.io/rghiggi/courses/desenvolvimento-web-para-nao-programadores#/css/posicionamento)
+  * [Bordas](https://trinket.io/rghiggi/courses/desenvolvimento-web-para-nao-programadores#/css/bordas)
   * [Exercício](https://trinket.io/rghiggi/courses/desenvolvimento-web-para-nao-programadores#/css/exercicio-0-2)
 
 * **Quarta**
